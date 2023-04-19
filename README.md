@@ -11,8 +11,9 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Citation](https://img.shields.io/badge/cite-citation-brightgreen)](https://arxiv.org/abs/2105.06413)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/intel/openfl/blob/develop/openfl-tutorials/interactive_api/numpy_linear_regression/workspace/SingleNotebook.ipynb)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6599/badge)](https://bestpractices.coreinfrastructure.org/projects/6599)
 
-OpenFL is a Python 3 framework for Federated Learning. OpenFL is designed to be a _flexible_, _extensible_ and _easily learnable_ tool for data scientists. OpenFL is hosted by Intel, aims to be community-driven, and welcomes contributions back to the project. 
+OpenFL is a Python 3 framework for Federated Learning. OpenFL is designed to be a _flexible_, _extensible_ and _easily learnable_ tool for data scientists. OpenFL is hosted by The Linux Foundation, aims to be community-driven, and welcomes contributions back to the project. 
 
 ## Installation
 
@@ -63,7 +64,7 @@ OpenFL builds on a collaboration between Intel and the University of Pennsylvani
 The grant for FeTS was awarded to the [Center for Biomedical Image Computing and Analytics (CBICA)](https://www.cbica.upenn.edu/) at UPenn (PI: S. Bakas) from the [Informatics Technology for Cancer Research (ITCR)](https://itcr.cancer.gov/) program of the National Cancer Institute (NCI) of the National Institutes of Health (NIH). 
 
 FeTS is a real-world medical federated learning platform with international collaborators. The original OpenFederatedLearning project and OpenFL are designed to serve as the backend for the FeTS platform, 
-and OpenFL developers and researchers continue to work very closely with UPenn on the FeTS project. An example is the [FeTS-AI/Front-End](https://github.com/FETS-AI/Front-End), which integrates UPenn’s medical AI expertise with Intel’s framework to create a federated learning solution for medical imaging. 
+and OpenFL developers and researchers continue to work very closely with UPenn on the FeTS project. An example is the [FeTS-AI/Front-End](https://github.com/FETS-AI/Front-End), which integrates UPenn’s medical AI expertise with OpenFL framework to create a federated learning solution for medical imaging. 
 
 Although initially developed for use in medical imaging, OpenFL designed to be agnostic to the use-case, the industry, and the machine learning framework.
 
@@ -86,22 +87,13 @@ You can find more details in the following articles:
 
 ## Support
 Please join us for our bi-monthly community meetings starting December 1 & 2, 2022! <br>
-Meet with some of the Intel team members behind OpenFL. <br>
+Meet with some of the OpenFL team members behind OpenFL. <br>
 We will be going over our roadmap, open for Q&A, and welcome idea sharing. <br>
 
-2-time slots available:
+Calendar and links to a Community calls are [here](https://wiki.lfaidata.foundation/pages/viewpage.action?pageId=70648254)
 
-Europe
-Occurs every 2 months on the first Thursday of that month, 6 pm <br>
-https://intel.zoom.us/j/96858990725?pwd=ODJRVUhXNGNQU2YySTFqRi9qRXdtUT09 <br>
-Meeting ID: 968 5899 0725 <br>
-Passcode: 157568 <br>
+Subscribe to the OpenFL mail list openfl-announce@lists.lfaidata.foundation
 
-Asia Pacific
-Occurs every 2 months on the first Friday of that month, 10 AM GMT+8 <br>
-https://intel.zoom.us/j/98930263828?pwd=VkhIbVBtTG9xaHZCZ2dQNUdYSWpydz09 <br>
-Meeting ID: 989 3026 3828 <br>
-Passcode: 774320 <br>
 
 See you there!
 
